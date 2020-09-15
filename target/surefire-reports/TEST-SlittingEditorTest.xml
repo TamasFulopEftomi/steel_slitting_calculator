@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="189" failures="0" name="SlittingEditorTest" time="0.032" errors="0" skipped="0">
+<testsuite tests="189" failures="0" name="SlittingEditorTest" time="0.03" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin"/>
@@ -68,7 +68,7 @@
   <testcase classname="SlittingEditorTest" name="testWasteEdgeWidthCalc2" time="0"/>
   <testcase classname="SlittingEditorTest" name="testWasteEdgeWidthCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testWasteEdgeWidthCalc4" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testWasteEdgeWidthCalc5" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testWasteEdgeWidthCalc5" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testRemainsFromWidthCalc10" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumSumWidthCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumSumWidthCalc2" time="0"/>
@@ -79,23 +79,23 @@
   <testcase classname="SlittingEditorTest" name="testSumSumWidthCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc2" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc3" time="0.001"/>
-  <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc4" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc3" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc4" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc5" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc8" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneCoilWeightCalc9" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testHalfInnerDiameterCalc1" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testHalfInnerDiameterCalc1" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testHalfInnerDiameterCalc2" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testCoilWithDrumRadCalc1" time="0.003"/>
+  <testcase classname="SlittingEditorTest" name="testCoilWithDrumRadCalc1" time="0.002"/>
   <testcase classname="SlittingEditorTest" name="testCoilWithDrumRadCalc2" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testCoilWithDrumRadCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testCoilWithDrumRadCalc4" time="0"/>
   <testcase classname="SlittingEditorTest" name="testCoilWithDrumRadCalc5" time="0"/>
   <testcase classname="SlittingEditorTest" name="testCoilWithDrumRadCalc6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumSumPortionCalc1" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testSumSumPortionCalc2" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testSumSumPortionCalc2" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testSumSumPortionCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumSumPortionCalc4" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumSumPortionCalc5" time="0"/>
@@ -103,55 +103,55 @@
   <testcase classname="SlittingEditorTest" name="testSumSumPortionCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc2" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc3" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc4" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc5" time="0.003"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc6" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc7" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc8" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc9" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testRewinderDrumWeightCalc1" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testRewinderDrumWeightCalc1" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testRewinderDrumWeightCalc2" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testRewinderDrumWeightCalc3" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testRewinderDrumWeightCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testRewinderDrumWeightCalc4" time="0"/>
   <testcase classname="SlittingEditorTest" name="testRewinderDrumWeightCalc5" time="0"/>
   <testcase classname="SlittingEditorTest" name="testRewinderDrumWeightCalc6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumWasteCalc1" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testSumWasteCalc2" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testSumWasteCalc2" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumWasteCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumWasteCalc4" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumWasteCalc5" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testSumWasteCalc6" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testSumWasteCalc6" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testSumWasteCalc7" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testSumWasteCalc8" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testSumWasteCalc8" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc10" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc11" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc12" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc13" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc13" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc14" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc15" time="0.001"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc16" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc15" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionPickCalc16" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc17" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionPickCalc18" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc1" time="0.001"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc2" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc2" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc3" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc4" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc4" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc5" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWidthCalc8" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOuterDiameterCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOuterDiameterCalc2" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testOuterDiameterCalc3" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testOuterDiameterCalc3" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testOuterDiameterCalc4" time="0"/>
   <testcase classname="SlittingEditorTest" name="testCoilNetPlusDrumWeightCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testCoilNetPlusDrumWeightCalc2" time="0"/>
   <testcase classname="SlittingEditorTest" name="testCoilNetPlusDrumWeightCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testCoilNetPlusDrumWeightCalc4" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testCoilNetPlusDrumWeightCalc5" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testCoilNetPlusDrumWeightCalc5" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testCoilNetPlusDrumWeightCalc6" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testSumQtyCalc1" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testSumQtyCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumQtyCalc2" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumQtyCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumQtyCalc4" time="0"/>
@@ -167,26 +167,26 @@
   <testcase classname="SlittingEditorTest" name="testOneMmBatchCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmBatchCalc8" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmBatchCalc9" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc10" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc11" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc10" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc11" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc12" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc13" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc14" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc15" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc16" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc17" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc16" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc17" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc2" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc4" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc5" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc6" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc5" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc8" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneMmCoilCalc9" time="0"/>
   <testcase classname="SlittingEditorTest" name="testRemainsFromWidthCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testRemainsFromWidthCalc2" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testRemainsFromWidthCalc3" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testRemainsFromWidthCalc3" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testRemainsFromWidthCalc4" time="0"/>
   <testcase classname="SlittingEditorTest" name="testRemainsFromWidthCalc5" time="0"/>
   <testcase classname="SlittingEditorTest" name="testRemainsFromWidthCalc6" time="0"/>
@@ -204,7 +204,7 @@
   <testcase classname="SlittingEditorTest" name="testOneCoilNetWeightCalc5" time="0"/>
   <testcase classname="SlittingEditorTest" name="testOneCoilNetWeightCalc6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc1" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc2" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc2" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc4" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumProportionCalc5" time="0"/>
@@ -216,7 +216,7 @@
   <testcase classname="SlittingEditorTest" name="testSetTitle2" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSetTitle3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSetTitle4" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testSetTitle5" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testSetTitle5" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSetTitle6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testNoCoilWidthSetup1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testNoCoilWidthSetup2" time="0"/>
@@ -226,8 +226,8 @@
   <testcase classname="SlittingEditorTest" name="testNoCoilWidthSetup6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionResultDisplay1" time="0.002"/>
   <testcase classname="SlittingEditorTest" name="testDimensionResultDisplay2" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionResultDisplay3" time="0.001"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionResultDisplay4" time="0.002"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionResultDisplay3" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionResultDisplay4" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testDimensionResultDisplay5" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionResultDisplay6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testSumSumWeightCalc1" time="0"/>
@@ -239,9 +239,9 @@
   <testcase classname="SlittingEditorTest" name="testSumSumWeightCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc1" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc2" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc3" time="0.001"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc3" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc4" time="0"/>
-  <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc5" time="0"/>
+  <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc5" time="0.001"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc6" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc7" time="0"/>
   <testcase classname="SlittingEditorTest" name="testDimensionSumWeightCalc8" time="0"/>

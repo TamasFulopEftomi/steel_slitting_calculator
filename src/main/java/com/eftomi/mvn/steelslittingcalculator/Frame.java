@@ -1830,12 +1830,12 @@ public class Frame extends javax.swing.JFrame {
         moreEdgeMessage = "Van még kiosztható szélesség az alapanyagból! "
                 + "Túl sok szélhulladék keletkezik!";
         jlbDimensionResult.setText("A kalkulált állványméret:");
-        se.setTitleMain(titleMain = "Acélszalaghasítóállvány méretszerkesztő");
-        se.setTitleAbout(titleAbout = "Acélszalaghasítóállvány méretszerkesztő / A programról");
-        se.setTitleCalc(titleCalc = "Acélszalaghasítóállvány méretszerkesztő / Méretszerkesztő");
+        se.setTitleMain(titleMain = "Acélszalag hasítóállvány méretszerkesztő");
+        se.setTitleAbout(titleAbout = "Acélszalag hasítóállvány méretszerkesztő / A programról");
+        se.setTitleCalc(titleCalc = "Acélszalag hasítóállvány méretszerkesztő / Méretszerkesztő");
         setTitle(se.setTitle(navigation));
-        jlbMain1.setText(titleMain.split(" ")[0]);
-        jlbMain2.setText(titleMain.split(" ")[1]);
+        jlbMain1.setText(titleMain.split(" ")[0] + " " + titleMain.split(" ")[1]);
+        jlbMain2.setText(titleMain.split(" ")[2]);
         jlbMainText.setText("Használat előtt kérem válasszon egy nyelvet a menüben!");
         jlbAboutText.setText(titleMain);
         jtaAbout.setText("A szoftver motivációja:\n\n"
